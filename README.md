@@ -1,1 +1,1 @@
-Issue #1 and #2 are linked here
+Issue https://github.com/renatocaval/transfer-test/issues/1 and https://github.com/renatocaval/transfer-test/issues/2 are linked here
